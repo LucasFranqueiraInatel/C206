@@ -9,7 +9,8 @@ public class Principal{
         Zumbi z1 = new Zumbi();
         Zumbi z2 = new Zumbi();
         Jogador p1 = new Jogador();
-
+        
+        int alvo;
         int acao;
         int kills = 0;
 
@@ -18,9 +19,9 @@ public class Principal{
         z1.dano = 20;
         z2.dano = 12;
 
+
         System.out.println("Vida do zumbi z1: " + z1.vida);
         System.out.println("Vida do zumbi z2: " + z2.vida);
-
         p1.setAtack(z1, p1.dano);
 
         while (p1.vida > 0 || kills == 3 ){
