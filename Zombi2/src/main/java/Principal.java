@@ -32,6 +32,10 @@ public class Principal{
 
             if(acao == 1){
                 System.out.println("Escolha o seu alvo");
+                if(z1.morto == false){
+
+                }
+                acao = sc.nextInt();
 
             }
 
