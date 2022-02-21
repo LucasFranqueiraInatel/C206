@@ -10,8 +10,8 @@ public class Principal{
         Zumbi z2 = new Zumbi();
         Jogador p1 = new Jogador();
         
-        int alvo;
-        int acao;
+        int alvo = 0;
+        int acao = 0;
         int kills = 0;
 
         z1.vida = 100;
@@ -20,42 +20,30 @@ public class Principal{
         z2.dano = 12;
 
 
-        System.out.println("Vida do zumbi z1: " + z1.vida);
-        System.out.println("Vida do zumbi z2: " + z2.vida);
-        p1.setAtack(z1, p1.dano);
+        //System.out.println("Vida do zumbi z1: " + z1.vida);
+        //System.out.println("Vida do zumbi z2: " + z2.vida);
+        //p1.setAtack(z1, p1.dano);
 
-        while (p1.vida > 0 || kills == 3 ){
+
+        while (p1.vida > 0 || kills == 2 ){
             System.out.println("Escolha a sua acao :");
             System.out.println("Atacar = 1");
             System.out.println("FireBoll = 2");
             System.out.println("Correr = 3");
             acao = sc.nextInt();
 
+            System.out.println(acao);
             if(acao == 1){
-                System.out.println("Escolha o seu alvo");
-                
-                alvo = 
+                System.out.println("Selecione o seu alvo");
+                z1.info();
+                z2.info();
+                alvo = sc.nextInt();
 
+                p1.setAtack();
             }
 
         }
 
-        /*
-        if(z1.transfereVida(z2, 50)){
-            System.out.println("Fazendo z1 transferir 50 para z2");
-            System.out.println("Vida do zumbi z1: " + z1.vida);
-            System.out.println("Vida do zumbi z2: " + z2.vida);
-        }
-
-
-        if(z1.transfereVida(z2, 150)){
-            System.out.println("Fazendo z1 transferir 150 para z2");
-            System.out.println("Vida do zumbi z1: " + z1.vida);
-            System.out.println("Vida do zumbi z2: " + z2.vida);
-        }else{
-            System.out.println("A vida não foi alterada!!");
-        }
-        */
 
     }
 

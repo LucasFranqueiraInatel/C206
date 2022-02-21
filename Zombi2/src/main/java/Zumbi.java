@@ -23,4 +23,16 @@ public class Zumbi {
     void andar(){
         System.out.println("devagar e sempre");
     }
+
+    void info() {
+        if (morto == false){
+            System.out.println(nome);
+            System.out.println(vida);
+            System.out.println(dano);
+        }
+        else{
+            System.out.println("O Zumbi " + nome +" ja esta morto");
+        }
+
+    }
 }
