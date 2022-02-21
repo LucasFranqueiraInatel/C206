@@ -34,10 +34,18 @@ public class Principal{
 
             System.out.println(acao);
             if(acao == 1){
+<<<<<<< HEAD
                 System.out.println("Selecione o seu alvo");
                 z1.info();
                 z2.info();
                 alvo = sc.nextInt();
+=======
+                System.out.println("Escolha o seu alvo");
+                if(z1.morto == false){
+
+                }
+                acao = sc.nextInt();
+>>>>>>> 2b1ab5586abb127df877da820c0e9c5595ca09b4
 
                 p1.setAtack();
             }
