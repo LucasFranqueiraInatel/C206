@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7436cd08-fc31-40fe-9a4f-27213e952840" name="Changes" comment="" />
+    <list default="true" id="7436cd08-fc31-40fe-9a4f-27213e952840" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Prova-1-Ex/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prova-1-Ex/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova-1-Ex/target/classes/Diretor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova-1-Ex/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova-1-Ex/target/classes/Plataforma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova-1-Ex/target/classes/Serie.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="264dNyDx6WhxFKx8bMnw5I1vX5d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -52,7 +63,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646686759709</updated>
+<<<<<<< HEAD
       <workItem from="1646686760981" duration="4647000" />
+=======
+      <workItem from="1646686760981" duration="3885000" />
+      <workItem from="1646876517676" duration="239000" />
+>>>>>>> 74f8b18b828793c400705a0d9e5323db8746b03a
     </task>
     <servers />
   </component>
