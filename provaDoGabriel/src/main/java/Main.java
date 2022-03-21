@@ -27,7 +27,6 @@ public class Main {
                 case 2:
                     p.mostraInfo();
                     break;
-
                 case 3:
                     System.out.printf("Serie com maior numero de temporadas finalizada: ");
                     System.out.printf(p.serieMaisLongaFinalizada());
