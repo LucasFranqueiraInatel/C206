@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9342b3dd-fd48-455f-b3fe-6408ed267692" name="Changes" comment="" />
+    <list default="true" id="a471d563-075e-4ac9-a537-096dd5eda388" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26OQJFdRVYkznQ3ErMZNaUu6cPh" />
+  <component name="ProjectId" id="27Cj7sODR7VNRcWbIhLTc6XNIYD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,8 +33,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.inatel.cdg.Main" />
-      <module name="spaceShooter" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercicioDeBandas" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -48,18 +48,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9342b3dd-fd48-455f-b3fe-6408ed267692" name="Changes" comment="" />
-      <created>1647292082671</created>
+      <changelist id="a471d563-075e-4ac9-a537-096dd5eda388" name="Changes" comment="" />
+      <created>1648830802682</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647292082671</updated>
-      <workItem from="1647292084070" duration="2189000" />
-      <workItem from="1647534620271" duration="192000" />
-      <workItem from="1647621293833" duration="4036000" />
-      <workItem from="1647896544697" duration="11000" />
-      <workItem from="1647896612263" duration="81000" />
-      <workItem from="1647896735671" duration="61000" />
-      <workItem from="1647897061918" duration="463000" />
+      <updated>1648830802682</updated>
+      <workItem from="1648830802682" duration="2815000" />
+      <workItem from="1648835302172" duration="892000" />
     </task>
     <servers />
   </component>
