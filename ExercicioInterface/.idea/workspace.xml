@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f59beb9-3fce-4cec-bcbe-41bb5f239e4b" name="Changes" comment="" />
+    <list default="true" id="957223a4-5c21-4c13-8efc-972c71a9f4e2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +14,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27CosuZ5Ft5xIhmBh3dezAqoLwl" />
+  <component name="ProjectId" id="28TrfytZVkOdH3rAcK59Zhv7DmS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,12 +30,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../provaC206_lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="exerciciosCampoMinado" />
+      <module name="ExercicioInterface" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -48,12 +49,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f59beb9-3fce-4cec-bcbe-41bb5f239e4b" name="Changes" comment="" />
-      <created>1648833641008</created>
+      <changelist id="957223a4-5c21-4c13-8efc-972c71a9f4e2" name="Changes" comment="" />
+      <created>1651251531715</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648833641008</updated>
-      <workItem from="1648833642286" duration="2088000" />
+      <updated>1651251531715</updated>
+      <workItem from="1651251533305" duration="2679000" />
+      <workItem from="1651526458242" duration="1215000" />
     </task>
     <servers />
   </component>
